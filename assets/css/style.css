@@ -1199,7 +1199,8 @@ section {
 @media screen and (max-width: 500px) {
   #hero
   {
-    background-image: url("../../sachinalt.png");
+    /* background-image: url("../../sachinalt.png"); */
+    display: none;
     
   }
 }
