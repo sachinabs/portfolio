@@ -1200,10 +1200,6 @@ section {
   #hero
   {
     background-image: url("../../sachinalt.png");
-
     
-    background-size: cover;
-    position: relative;
   }
-  
 }
