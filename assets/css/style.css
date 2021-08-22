@@ -1196,7 +1196,7 @@ section {
 #footer .credits {
   font-size: 13px;
 }
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 1080px) {
   #hero
   {
     background-image: url("../../IMG_20210411_060319.jpg");
