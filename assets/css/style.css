@@ -262,7 +262,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../../sachinalt.png") top right no-repeat;
+  background: url("../../sachin.png") top right no-repeat;
   background-size: cover;
   position: relative;
 }
@@ -1199,7 +1199,7 @@ section {
 @media screen and (max-width: 500px) {
   #hero
   {
-    /* background-image: url("../../sachinalt.png"); */
+    background-image: url("../../IMG_20210411_060319.jpg");
     display: none;
     
   }
